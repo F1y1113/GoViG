@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node 1 --master_port 29610 train.py \
+--model anole \
+--model_ckpt output/trainimage_seq_len-784-train-anole-hyper-train1val1lr0.0002-R2R_Goal-prompt_anole-42/checkpoint-20000 \
+--data R2R_Goal \
+--decoder_type anole \
+--image_seq_length 784 \
+--input_format anole \
+--output output \
+--note eval \
+--report_to none \
+--do_predict

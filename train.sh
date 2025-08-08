@@ -1,0 +1,11 @@
+torchrun --nproc_per_node 1 train.py \
+--model anole \
+--data R2R_Goal \
+--decoder_type anole \
+--image_seq_length 784 \
+--input_format anole \
+--output output \
+--note train \
+--report_to none \
+--do_train \
+--bfloat16
