@@ -38,11 +38,13 @@ pip install torch==2.4.0
 pip install -r requirements.txt --user
 ```
 
-## Implementation
-
 ### Data
 
 We now release a partial dataset for the purpose of debugging and demonstrating the data format. You can find them in [data_samples](data_samples/)
+
+```bash
+unzip R2R_Goal.zip
+```
 
 ### Training
 
