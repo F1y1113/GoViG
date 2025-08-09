@@ -60,6 +60,10 @@ bash eval.sh
 
 you can find detailed metrics calculation in [taskeval_vis.py](taskeval_vis.py).
 
+## Acknowledgement
+
+We would like to thank [ANOLE](https://arxiv.org/abs/2407.06135) and [MVOT](https://arxiv.org/abs/2501.07542) for their publicly available codebase, which we referenced during the implementation of Anole training.
+
 
 ## 🧭 GoViG Gallery
 
