@@ -2,9 +2,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.xxxx-red)]() 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-* 🚀 [Project Web Page](Coming soon)
-* 📂 [Dataset](Coming soon)
-
 
 GoViG introduces a new task in embodied AI: generating navigation instructions directly from egocentric visual observations of the initial and goal states. Unlike previous methods that rely on semantic maps or structured annotations, GoViG operates purely on egocentric visual input—making it highly adaptable to unseen and unstructured environments.
 
