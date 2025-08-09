@@ -61,7 +61,7 @@ bash eval.sh
 you can find detailed metrics calculation in [taskeval_vis.py](taskeval_vis.py).
 
 
-# 🧭 GoViG Gallery
+## 🧭 GoViG Gallery
 
 <div style="overflow-x: auto; white-space: nowrap;">
 
