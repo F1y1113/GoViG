@@ -64,8 +64,9 @@ you can find detailed metrics calculation in [taskeval_vis.py](taskeval_vis.py).
 
 # 🧭 GoViG Gallery
 
-<div style="overflow-x: auto; width: 100%;">
-  <table style="table-layout: fixed; width:1080px;">
+<div style="overflow-x: auto; white-space: nowrap;">
+
+  <table style="table-layout: fixed; width:2000px;">
     <thead>
       <tr>
         <th style="width:180px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
