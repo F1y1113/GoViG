@@ -49,9 +49,8 @@ class SceneDataset(datasets.GeneratorBasedBuilder):
         for traj_name in all_possible_traj:
             traj_path = os.path.join(data_root, traj_name)
             try:
-                num_images = len([f for f in os.listdir(traj_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
-                if num_images >= 24 and num_images <= 29:
-                    all_traj_names.append(traj_name)
+                # num_images = len([f for f in os.listdir(traj_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
+                all_traj_names.append(traj_name)
             except OSError as e:
                 print(f"Could not access {traj_path}: {e}")
 
