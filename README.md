@@ -1,5 +1,5 @@
 # 🧭 GoViG: Goal-Conditioned Visual Navigation Instruction Generation
-[![arXiv](https://img.shields.io/badge/arXiv-2508.xxxx-red)]() 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.09547-red)](https://arxiv.org/pdf/2508.09547) 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 
