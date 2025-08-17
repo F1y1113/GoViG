@@ -5,6 +5,16 @@
 
 GoViG introduces a new task in embodied AI: generating navigation instructions directly from egocentric visual observations of the initial and goal states. Unlike previous methods that rely on semantic maps or structured annotations, GoViG operates purely on egocentric visual input—making it highly adaptable to unseen and unstructured environments.
 
+If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper:
+```bibtex
+@article{wu2025govig,
+  title={GoViG: Goal-Conditioned Visual Navigation Instruction Generation},
+  author={Wu, Fengyi and Dong, Yifei and Cheng, Zhi-Qi and Dai, Yilong and Chen, Guangyu and Wang, Hang and Dai, Qi and Hauptmann, Alexander G},
+  journal={arXiv preprint arXiv:2508.09547},
+  year={2025}
+}
+```
+
 ## 🔍 Overview
 
 GoViG decomposes the instruction generation task into two interconnected subtasks:
