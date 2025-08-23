@@ -1,21 +1,41 @@
-# 🧭 GoViG: Goal-Conditioned Visual Navigation Instruction Generation
-[![arXiv](https://img.shields.io/badge/arXiv-2508.09547-red)](https://arxiv.org/pdf/2508.09547) 
-![License](https://img.shields.io/badge/license-MIT-blue)
+<br>
+<p align="center">
 
+<h1 align="center"><strong>🧭 GoViG: Goal-Conditioned <br>Visual Navigation Instruction Generation</strong></h1>
+  <p align="center"><span><a href=""></a></span>
+              <a>Fengyi Wu<sup>#</sup></a>
+             <a>Yifeng Dong<sup>#</sup></a>
+              <a>Zhi-qi Cheng<sup>*</sup></a>
+              <a>Yilong Dai</a>
+              <a>Guangyu Chen</a>
+              <a>Hang Wang</a>
+              <a>Qi Dai</a>
+              <a>Alexander G Hauptmann</a>
+    <br>
+    <sup>#</sup>Equal Contribution, Random Order, <sup>2</sup>Corresponding author<br>
+    </p>
+<p align="center">
+  <a href="https://arxiv.org/pdf/2508.09547" target='_blank'>
+    <img src="https://img.shields.io/badge/arXiv-2508.09547-red">
+  </a>
+  <a href="https://github.com/F1y1113/GoViG" target='_blank'>
+    <img src="https://img.shields.io/badge/Project-GoViG-blue">
+  </a>
+  <a target='_blank'>
+    <img src="https://img.shields.io/badge/license-MIT-green">
+  </a>
+</p>
+<p align="center">
+  <img src="assists/task_overview.png" alt="task" width="600"/>
+</p>
 
-GoViG introduces a new task in embodied AI: generating navigation instructions directly from egocentric visual observations of the initial and goal states. Unlike previous methods that rely on semantic maps or structured annotations, GoViG operates purely on egocentric visual input—making it highly adaptable to unseen and unstructured environments.
+**GoViG** introduces a new task in embodied AI: generating navigation instructions directly from egocentric visual observations of the initial and goal states. Unlike previous methods that rely on semantic maps or structured annotations, GoViG operates purely on egocentric visual input—making it highly adaptable to unseen and unstructured environments.
 
-If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper:
-```bibtex
-@article{wu2025govig,
-  title={GoViG: Goal-Conditioned Visual Navigation Instruction Generation},
-  author={Wu, Fengyi and Dong, Yifei and Cheng, Zhi-Qi and Dai, Yilong and Chen, Guangyu and Wang, Hang and Dai, Qi and Hauptmann, Alexander G},
-  journal={arXiv preprint arXiv:2508.09547},
-  year={2025}
-}
-```
 
 ## 🔍 Overview
+<p align="center">
+  <img src="assists/method_overview.png" alt="task" width="1000"/>
+</p>
 
 GoViG decomposes the instruction generation task into two interconnected subtasks:
 
@@ -159,3 +179,15 @@ We would like to thank [ANOLE](https://arxiv.org/abs/2407.06135) and [MVOT](http
   </table>
 </div>
 
+
+## Citation
+
+If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper:
+```bibtex
+@article{wu2025govig,
+  title={GoViG: Goal-Conditioned Visual Navigation Instruction Generation},
+  author={Wu, Fengyi and Dong, Yifei and Cheng, Zhi-Qi and Dai, Yilong and Chen, Guangyu and Wang, Hang and Dai, Qi and Hauptmann, Alexander G},
+  journal={arXiv preprint arXiv:2508.09547},
+  year={2025}
+}
+```
