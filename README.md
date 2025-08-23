@@ -13,18 +13,20 @@
               <a>Alexander G Hauptmann</a>
     <br>
     <sup>#</sup>Equal Contribution, Random Order, <sup>2</sup>Corresponding author<br>
-    </p>
+  </p>
+    
 <p align="center">
-  <a href="https://arxiv.org/pdf/2508.09547" target='_blank'>
-    <img src="https://img.shields.io/badge/arXiv-2508.09547-red">
+  <a href="https://arxiv.org/abs/2508.09547" target="_blank">
+    <img src="https://img.shields.io/badge/ArXiv-2508.09547-red">
   </a>
-  <a href="https://github.com/F1y1113/GoViG" target='_blank'>
+  <a href="https://github.com/F1y1113/GoViG" target="_blank">
     <img src="https://img.shields.io/badge/Project-GoViG-blue">
   </a>
-  <a target='_blank'>
-    <img src="https://img.shields.io/badge/license-MIT-green">
-  </a>
+<a href="https://github.com/F1y1113/GoViG" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-green">
+</a>
 </p>
+
 <p align="center">
   <img src="assists/task_overview.png" alt="task" width="500"/>
 </p>
