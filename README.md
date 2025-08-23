@@ -5,7 +5,7 @@
   <p align="center"><span><a href=""></a></span>
               <a>Fengyi Wu<sup>#</sup>,</a>
              <a>Yifeng Dong<sup>#</sup>,</a>
-              <a>Zhi-qi Cheng<sup>*</sup>,</a>
+              <a>Zhi-Qi Cheng<sup>*</sup>,</a>
               <a>Yilong Dai,</a>
               <a>Guangyu Chen,</a>
               <a>Hang Wang,</a>
@@ -179,8 +179,14 @@ We would like to thank [ANOLE](https://arxiv.org/abs/2407.06135) and [MVOT](http
   </table>
 </div>
 
+More examples of GoViG results on the **Real-world** Subset of our **R2R-Goal** dataset.
 
-## Citation
+<p align="center">
+  <img src="assists/real.png" alt="real" width="1000"/>
+</p>
+
+
+## 🌟 Citation
 
 If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper:
 ```bibtex
