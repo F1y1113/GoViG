@@ -3,13 +3,13 @@
 
 <h1 align="center"><strong>🧭 GoViG: Goal-Conditioned <br>Visual Navigation Instruction Generation</strong></h1>
   <p align="center"><span><a href=""></a></span>
-              <a>Fengyi Wu<sup>#</sup></a>
-             <a>Yifeng Dong<sup>#</sup></a>
-              <a>Zhi-qi Cheng<sup>*</sup></a>
-              <a>Yilong Dai</a>
-              <a>Guangyu Chen</a>
-              <a>Hang Wang</a>
-              <a>Qi Dai</a>
+              <a>Fengyi Wu<sup>#</sup>,</a>
+             <a>Yifeng Dong<sup>#</sup>,</a>
+              <a>Zhi-qi Cheng<sup>*</sup>,</a>
+              <a>Yilong Dai,</a>
+              <a>Guangyu Chen,</a>
+              <a>Hang Wang,</a>
+              <a>Qi Dai,</a>
               <a>Alexander G Hauptmann</a>
     <br>
     <sup>#</sup>Equal Contribution, Random Order, <sup>2</sup>Corresponding author<br>
