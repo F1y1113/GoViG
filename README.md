@@ -4,7 +4,7 @@
 <h1 align="center"><strong>🧭 GoViG: Goal-Conditioned <br>Visual Navigation Instruction Generation</strong></h1>
   <p align="center"><span><a href=""></a></span>
               <a>Fengyi Wu<sup>#</sup>,</a>
-             <a>Yifeng Dong<sup>#</sup>,</a>
+             <a>Yifei Dong<sup>#</sup>,</a>
               <a>Zhi-Qi Cheng<sup>*</sup>,</a>
               <a>Yilong Dai,</a>
               <a>Guangyu Chen,</a>
