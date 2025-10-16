@@ -22,6 +22,9 @@
   <a href="https://github.com/F1y1113/GoViG" target="_blank">
     <img src="https://img.shields.io/badge/Project-GoViG-blue">
   </a>
+    <a href="https://drive.google.com/file/d/17823NqgVHJ-xfx5bFTcm58g6j7D19Hqq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Googledrive-dataset-purple">
+  </a>
 <a href="https://github.com/F1y1113/GoViG" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-green">
 </a>
