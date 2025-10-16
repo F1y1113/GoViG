@@ -75,7 +75,8 @@ pip install -r requirements.txt --user
 
 ### Data
 
-We now release a partial dataset for the purpose of debugging and demonstrating the data format. You can find them in [data_samples](data_samples/)
+We release a partial dataset for the purpose of debugging and demonstrating the data format, you can find them in [data_samples](data_samples/).
+And you can access the full dataset [here](https://drive.google.com/file/d/17823NqgVHJ-xfx5bFTcm58g6j7D19Hqq/view?usp=sharing)
 
 ```bash
 unzip R2R_Goal.zip
