@@ -3,16 +3,16 @@
 
 <h1 align="center"><strong>🧭 GoViG: Goal-Conditioned <br>Visual Navigation Instruction Generation</strong></h1>
   <p align="center"><span><a href=""></a></span>
-              <a>Fengyi Wu<sup>#</sup>,</a>
-             <a>Yifei Dong<sup>#</sup>,</a>
-              <a>Zhi-Qi Cheng<sup>*</sup>,</a>
-              <a>Yilong Dai,</a>
-              <a>Guangyu Chen,</a>
-              <a>Hang Wang,</a>
-              <a>Qi Dai,</a>
-              <a>Alexander G Hauptmann</a>
+              <a>Fengyi Wu<sup>1,*</sup>,</a>
+             <a>Yifei Dong<sup>1,*</sup>,</a>
+              <a>Zhi-Qi Cheng<sup>1,†</sup>,</a>
+              <a>Yilong Dai<sup>1</sup>,</a>
+              <a>Guangyu Chen<sup>1</sup>,</a>
+              <a>Hang Wang<sup>2</sup>,</a>
+              <a>Qi Dai<sup>3</sup>,</a>
+              <a>Alexander G Hauptmann<sup>4</sup></a>
     <br>
-    <sup>#</sup>Equal Contribution, Random Order, <sup>2</sup>Corresponding author<br>
+    <sup>1</sup>UW, <sup>2</sup>PolyU, <sup>3</sup>Microsoft Research, <sup>4</sup>CMU<br>
   </p>
     
 <p align="center">
